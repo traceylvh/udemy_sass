@@ -1,0 +1,10 @@
+SASS and SCSS are functionally the same, output the same CSS
+
+The difference is in the syntax
+  SCSS looks more like CSS
+
+SASS gets rid of semi-colons and brackets WHAAAAT
+
+SASS - indentation is EVERYTHING
+
+instructor prefers SCSS
