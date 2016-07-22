@@ -8,3 +8,12 @@ SASS gets rid of semi-colons and brackets WHAAAAT
 SASS - indentation is EVERYTHING
 
 instructor prefers SCSS
+
+=== Data Types ===
+
+$sass variables - just like PHP! (oy)
+
+sass auto converts RBG and HSL color values to Hex
+  not if alpha channel included
+
+$list can contain multi vars, multi lists
