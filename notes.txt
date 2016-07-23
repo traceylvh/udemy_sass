@@ -17,3 +17,11 @@ sass auto converts RBG and HSL color values to Hex
   not if alpha channel included
 
 $list can contain multi vars, multi lists
+
+this seems to be a really terrible Udemy course so far. He types in a bunch of stuff,
+does not show how it affects the actual design/DOM output at all, and then erases it all.
+I'm super unhappy with this course.
+
+%variable is a placeholder for multiple uses
+
+I'm watching a Sass tutorial by a guy who hates Sass syntax. :(
