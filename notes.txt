@@ -25,3 +25,25 @@ I'm super unhappy with this course.
 %variable is a placeholder for multiple uses
 
 I'm watching a Sass tutorial by a guy who hates Sass syntax. :(
+
+=== Mixins ===
+
+@mixin - create mixin
+    @include - call back the mixin
+
+this guy either gets brackets and parantheses confused or it's the opposite in the UK
+
+add parentheses to mixin to add an argument. everywhere argument is used it will be replaced
+with what is passed into the mixin
+
+whoa, total timesaver for vendor prefixes
+
+@content - not very clear in tutorial
+
+=== Importing ===
+
+you can import the stuff from other files, must use correct syntax
+use underscores for partials (files)
+
+I think I'm going to hit a semi-permanent pause on this tutorial since I'm attending a GDI Sass class weekend
+after next. 
